@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/resources/log4j.properties=UTF-8
+encoding//src/main/resources/shiro.ini=UTF-8
+encoding//src/main/webapp/WEB-INF/shiro.ini=UTF-8
+encoding//src/main/webapp/layout.jsp=UTF-8
+encoding//src/main/webapp/tree.html=UTF-8
